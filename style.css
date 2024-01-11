@@ -1,12 +1,24 @@
-.jumbotron{
+.jumbotron {
   padding-top: 6rem;
   background-color: #c5dbff;
 }
 
-#projects{
+#projects {
   background-color: #c5dbff;
 }
 
-section{
+section {
   padding-top: 5rem;
+}
+
+.card-body {
+  height: 80px;
+  line-height: 40px;
+	text-align: center;
+}
+
+.card-body p {
+	line-height: 1.5;
+  display: inline-block;
+  vertical-align: middle;
 }
